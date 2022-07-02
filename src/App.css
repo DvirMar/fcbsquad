@@ -1,0 +1,11 @@
+h1{
+	font-family: Lucida Handwriting;
+	color: #0000e6;
+	font-size: small;
+}
+
+body{
+		font-family: Monaco;
+		background: linear-gradient(89deg, #bfff00 0%,#ff33ff 25%,#bfff00 50%,#ff33ff 75%,#bfff00 100%);
+
+}
